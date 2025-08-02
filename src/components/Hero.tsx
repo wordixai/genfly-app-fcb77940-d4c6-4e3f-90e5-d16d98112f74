@@ -73,7 +73,7 @@ const Hero = () => {
           >
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1583846792160-e1aa6c2ae3bb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                 alt="African Fashion Model"
                 className="w-full h-[600px] object-cover rounded-2xl luxury-shadow"
               />
